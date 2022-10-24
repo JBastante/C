@@ -3,6 +3,6 @@
 #include "mensaje.h"
 
 int main (){
-    print_mensaje("Chau SisOp\n");
+    printf("Chau SisOp\n");
     exit(2);
 }
